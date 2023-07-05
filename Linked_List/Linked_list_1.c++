@@ -30,7 +30,7 @@ int main (){
 
     print(head);
     insertAtHead(head, 12);
-    print(head);
+     print(head);
 
 
 
