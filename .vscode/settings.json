@@ -2,6 +2,7 @@
     "files.associations": {
         "DATA_STRUCTURE_BASICS.C": "cpp",
         "ostream": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "table.C": "cpp"
     }
 }
