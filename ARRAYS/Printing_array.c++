@@ -4,9 +4,9 @@ void printArray(int arr[], int size){
     cout<<"Printing the array:"<<endl;
     for(int i=0; i<size; i++){
     cout<<arr[i]<<" ";
+    cout<< endl;
     
 }
-    cout<< endl;
     cout<<"Printing done array"<<endl;
 }
 int main(){
@@ -16,7 +16,7 @@ int main(){
 
     int n[5]={8,5,7};
     printArray(n,5);
-    
+
     int soham[10]={0};// initilizing array with zero
     printArray(soham,10);
 
